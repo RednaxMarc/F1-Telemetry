@@ -1,5 +1,4 @@
 # Load required libraries
-library(XML)
 library(xml2)
 library(ggplot2)
 library(dplyr)
